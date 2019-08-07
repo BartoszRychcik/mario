@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (projekt2vs15.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+sdl2main.lib(SDL_windows_main.obj) : error LNK2019: nierozpoznany zewnętrzny symbol __imp__fprintf przywołany w funkcji _ShowError
+sdl2main.lib(SDL_windows_main.obj) : error LNK2019: nierozpoznany zewnętrzny symbol __imp____iob_func przywołany w funkcji _ShowError
+C:\Users\PC-Bartosz\Desktop\Bartek\STUDIA\SEMESTR 1\PP-PROJEKT2\Debug\projekt2vs10.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 2
